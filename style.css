@@ -58,7 +58,8 @@ body{
 
 .wrapper .remember-forgot{
     display: flex;
-    justify-content: space-between;
+    justify-content: center;
+    align-items: center;
     font-size: 14.5px;
     margin: -15px 0 15px;
 }
