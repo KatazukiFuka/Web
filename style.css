@@ -71,8 +71,8 @@ body{
 .remember-forgot a{
     color: #BCBABA;
     text-decoration: none;
-    position: relative;
-    left: 90px;
+    /*position: relative;
+    left: 90px;*/
 }
 
 .wrapper .btn{
