@@ -86,6 +86,7 @@ body{
     font-size:  16px;
     color: #fff;
     font-weight: 600;
+    transition: all .3s ease-in-out;
 }
 .wrapper .register-link{
     font-size: 14.5px;
