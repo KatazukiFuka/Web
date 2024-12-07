@@ -102,9 +102,11 @@ body{
     margin: 0 0px;
     background-color: #ea4c88;
     text-decoration: none;
+    transition: all .3s ease-in-out;
 }
 
 .back-buttons  :hover{
     background-color: #3b4148;
+    transition: all .3s ease-in-out;
 }
 
