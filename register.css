@@ -64,9 +64,11 @@ body{
     font-size:  16px;
     color: #fff;
     font-weight: 600;
+    transition: all .3s ease-in-out;
 }
 .wrapper .btn:hover {
-    color: rgb(38, 60, 68);
+    transition: all .3s ease-in-out;
+    /*color: rgb(38, 60, 68);*/
     background-color: rgba(124, 124, 124, 0.349);
 }
 
@@ -83,7 +85,7 @@ body{
 }
 
 .login p a:hover {
-    text-decoration: underline;
+    text-decoration: none;
 }
 
 .login p{
